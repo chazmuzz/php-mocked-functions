@@ -1,0 +1,20 @@
+{
+    "name": "jackmurray/php_mocked_functions",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.0"
+    },
+    "autoload": {
+        "files": [
+            "src/Calculator.php",
+            "src/MockFunction.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Charlie Murray",
+            "email": "charlie@bmore.co.uk"
+        }
+    ]
+}

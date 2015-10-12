@@ -146,7 +146,6 @@ class MockFunction {
 	 */
 	public function argumentsMatch(array $arguments)
 	{
-		return true;
 		return $this->arguments === $arguments;
 	}
 

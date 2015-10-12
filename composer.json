@@ -1,13 +1,13 @@
 {
-    "name": "jackmurray/php_mocked_functions",
+    "name": "chazmuzz/php_mocked_functions",
     "require": {
+        "ext-runkit": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"
     },
     "autoload": {
         "files": [
-            "src/Calculator.php",
             "src/MockFunction.php"
         ]
     },

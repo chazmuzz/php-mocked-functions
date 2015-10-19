@@ -1,5 +1,5 @@
 {
-    "name": "chazmuzz/php_mocked_functions",
+    "name": "chazmuzz/php-mocked-functions",
     "description": "Uses ext-runkit to mock, stub and set expectations on used-defined functions",
     "keywords": "function stub mock runkit",
     "version": "0.1.0-dev",
